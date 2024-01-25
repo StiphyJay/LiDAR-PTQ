@@ -1,6 +1,7 @@
 Offical code for paper of LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection in ICLR2024
 
-# ICLR2024: LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detectio
+ICLR2024: 
+# LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection 
 <div align='center'>
 
 **LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection**\
