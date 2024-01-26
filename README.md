@@ -14,6 +14,7 @@ If you have any problems, please email me sifanjay@gmail.com
 @article{zhou2024LiDAR-PTQ,
   title={LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection},
   author={Zhou, Sifan and Li, Liang and Zhang, Xinyu and Zhang, Bo and Bai, Shipeng and Sun, Miao and Zhao, Ziyu and Lu, Xiaobo and Chu, Xiangxiang},
+  journal={ICLR},
   year={2024}
 }
 ```
