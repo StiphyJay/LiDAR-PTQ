@@ -17,5 +17,3 @@ If you have any problems, please email me sifanjay@gmail.com
   year={2024}
 }
 ```
-
-# We are arranging the code and will release our code soon.
