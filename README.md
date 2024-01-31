@@ -7,8 +7,11 @@ Offical code for paper of LiDAR-PTQ: Post-Training Quantization for Point Cloud 
 *Sifan Zhou, Liang Li, Xinyu Zhang, Bo Zhang, Shipeng Bai, Miao Sun, Ziyu Zhao, Xiaobo Lu, Xiangxiang Chu*\
 Southeast University, Meituan, Zhejiang University, Nanyang Technological University
 
-If you have any problems, please email me sifanjay@gmail.com
+## 🗓️ Todo list
+-  2024/3/10: Arrange code and release for CenterPoint-Pillar/Voxel on Waymo dataset
+-  2024/3/30: Release setting forFSD on Waymo dataset
 
+If you have any problems, please email me sifanjay@gmail.com
 
 ```
 @article{zhou2024LiDAR-PTQ,
