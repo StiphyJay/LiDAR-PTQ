@@ -8,7 +8,7 @@ Southeast University, Meituan, Zhejiang University, Nanyang Technological Univer
 
 ## 🗓️ Todo list
 -  2024/3/10: Arrange code and release for CenterPoint-Pillar/Voxel on Waymo dataset
--  2024/3/30: Release setting forFSD on Waymo dataset
+-  2024/3/30: Release setting for FSD on Waymo dataset
 
 If you have any problems, please email me sifanjay@gmail.com
 
