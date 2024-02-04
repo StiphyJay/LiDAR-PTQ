@@ -12,6 +12,9 @@ Southeast University, Meituan, Zhejiang University, Nanyang Technological Univer
 
 If you have any problems, please email me sifanjay@gmail.com
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=StiphyJay/LiDAR-PTQ&type=Date)](https://star-history.com/#StiphyJay/LiDAR-PTQ&Date)
+
 ```
 @article{zhou2024LiDAR-PTQ,
   title={LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection},
