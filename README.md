@@ -1,8 +1,8 @@
 Offical code for paper of LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection in **ICLR2024**
 
-# LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection, ICLR2024 
+# LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection, ICLR2024 [arXiv](https://arxiv.org/abs/2401.15865)
 
-**LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection**\ [arXiv](https://arxiv.org/abs/2401.15865)
+**LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection**\ 
 *Sifan Zhou, Liang Li, Xinyu Zhang, Bo Zhang, Shipeng Bai, Miao Sun, Ziyu Zhao, Xiaobo Lu, Xiangxiang Chu*\
 Southeast University, Meituan, Zhejiang University, Nanyang Technological University 
 
