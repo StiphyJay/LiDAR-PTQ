@@ -15,6 +15,7 @@ If you have any problems, please email me sifanjay@gmail.com
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=StiphyJay/LiDAR-PTQ&type=Date)](https://star-history.com/#StiphyJay/LiDAR-PTQ&Date)
 
+## Citation
 ```
 @article{zhou2024LiDAR-PTQ,
   title={LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection},
@@ -23,3 +24,5 @@ If you have any problems, please email me sifanjay@gmail.com
   year={2024}
 }
 ```
+## Acknowleadgement
+This work was supported in part by National Key R$\&$D Program of China (No. 2022ZD0118700), National Natural Science Foundation of China (No.62271143), and the Big Data Computing Center of Southeast University.
