@@ -7,8 +7,7 @@ Offical code for paper of LiDAR-PTQ: Post-Training Quantization for Point Cloud 
 Southeast University, Meituan, Zhejiang University, Nanyang Technological University 
 
 ## 🗓️ Todo list
--  2024/3/10: Arrange code and release for CenterPoint-Pillar/Voxel on Waymo dataset
--  2024/3/30: Release setting for FSD on Waymo dataset
+-  2024/7/16: Arrange code and release for CenterPoint-Pillar/Voxel/FSD on nuscenes dataset
 
 If you have any problems, please email me sifanjay@gmail.com
 
@@ -17,11 +16,13 @@ If you have any problems, please email me sifanjay@gmail.com
 
 ## Citation
 ```
-@article{zhou2024LiDAR-PTQ,
-  title={LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection},
-  author={Zhou, Sifan and Li, Liang and Zhang, Xinyu and Zhang, Bo and Bai, Shipeng and Sun, Miao and Zhao, Ziyu and Lu, Xiaobo and Chu, Xiangxiang},
-  journal={International Conference on Learning Representations (ICLR 2024)},
-  year={2024}
+@inproceedings{
+    zhou2024LiDAR-PTQ,
+    title={LiDAR-PTQ:Post-Training Quantization for Point Cloud 3D Object Detection},
+    author={Zhou, Sifan and Li, Liang and Zhang, Xinyu and Zhang, Bo and Bai, Shipeng and Sun, Miao and Zhao, Ziyu and Lu, Xiaobo and Chu, Xiangxiang},
+    booktitle={The Twelfth International Conference on Learning Representations},
+    year={2024},
+    url={https://openreview.net/forum?id=0d1gQI114C}
 }
 ```
 ## Acknowleadgement
